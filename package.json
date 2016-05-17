@@ -1,0 +1,29 @@
+{
+  "name": "drag_and_drop",
+  "version": "1.0.0",
+  "description": "Basic example of drag and drop functionality",
+  "main": "lib/start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node lib/start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heron2014/drag_and_drop.git"
+  },
+  "author": "heron2014",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heron2014/drag_and_drop/issues"
+  },
+  "homepage": "https://github.com/heron2014/drag_and_drop#readme",
+  "dependencies": {
+    "env2": "^2.0.8",
+    "hapi": "^13.4.0",
+    "inert": "^4.0.0"
+  },
+  "devDependencies": {
+    "hoek": "^4.0.0",
+    "vision": "^4.1.0"
+  }
+}
